@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/previous"
+        android:orderInCategory="1"
+        android:title="Previous"/>
+
+    <item
+        android:id="@+id/random"
+        android:orderInCategory="2"
+        android:title="Random"/>
+
+    <item
+        android:id="@+id/next"
+        android:orderInCategory="3"
+        android:title="Next"/>
+
+
+</menu>
